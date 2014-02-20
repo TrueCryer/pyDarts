@@ -11,4 +11,4 @@ pygame >= 1.7
 
 
 
-To start game run file 'game.py' in 'scr' directory.
+To start game run file 'game.py' in 'src' directory.
